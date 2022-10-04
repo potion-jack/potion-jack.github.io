@@ -26,7 +26,7 @@ title: About
 > - [대회기간]<br/>
 > 2022.08.08 ~ 2022.09.16 11:59
 
-> 자율주행 센서의 안테나 성능 예측 AI 경진대회
+> 자율주행 센서의 안테나 성능 예측 AI 경진대회<br/>
 [competition_link](https://dacon.io/competitions/official/235927/overview/description)
 > - 프로젝트 특징<br/>
 > - - 대량의 **column**을 가진 데이터에 대한 **multi output regression**<br/>
