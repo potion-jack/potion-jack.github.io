@@ -10,13 +10,12 @@ title: About
 - [Linkedin](https://www.linkedin.com/in/jack-kim-42aa79239/)
 - Mail : flycast0080@gmail.com
 
-다양한 데이터를 접하고, 이를 모델에 넣기까지 전처리 해보는 경험들을 쌓고 있습니다.
-일반적인 csv, excel, parquet 파일부터 image, mol, NL(Natural Language) 까지
-다루어본 경험이 있습니다.
+다양한 데이터를 접하고, 이를 모델에 넣기까지 전처리 해보는 경험들을 쌓고 있습니다.<br/>
+일반적인 csv, excel, parquet 파일부터 image, mol, NL(Natural Language) 까지 다루어본 경험이 있습니다.
 
 ## Project
 >2022 Samsung AI Challenge (Materials Discovery) <br/>
-(https://dacon.io/competitions/official/235953/overview/description)
+[competition_link](https://dacon.io/competitions/official/235953/overview/description)
 > - ### 프로젝트 특징<br/>
 >- -  **mol_file**을 데이터로 받아 적절하게 처리하여 ML모델에 넣을 수 있는 **전처리**가 필요하다.<br/>
 >- -  SMILES(분자구조식) NLP하는 작업이 필요하다
@@ -28,7 +27,7 @@ title: About
 > 2022.08.08 ~ 2022.09.16 11:59
 
 > 자율주행 센서의 안테나 성능 예측 AI 경진대회
-(https://dacon.io/competitions/official/235927/overview/description)
+[competition_link](https://dacon.io/competitions/official/235927/overview/description)
 > - 프로젝트 특징<br/>
 > - - 대량의 **column**을 가진 데이터에 대한 **multi output regression**<br/>
 > - - 모델 평가 지표에 맞는 **customized loss function**
