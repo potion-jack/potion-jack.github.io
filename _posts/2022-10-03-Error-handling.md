@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Today I learned(2022_10_03)
-date: 2020-10-03
-last_modified_at: 2020-10-03
+date: 2022-10-03
+last_modified_at: 2022-10-03
 tags: [conda, anaconda, error_handle]
 toc:  true
 ---
